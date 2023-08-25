@@ -1,5 +1,7 @@
 # 2022년 KT와 함께하는 상명 AI 경진대회
 
+<img src="https://github.com/JHyun0302/2022_AI_Contest/assets/60764632/e53aabca-f803-40f8-a24e-d5c70470959d"  width="300" height="400">
+
 ## 문제 : AI를 활용해서 경제, 사회 문제 개선 및 해결
 
 - 팀명 : 지니 PICK ME
